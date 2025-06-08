@@ -1,5 +1,5 @@
 ---
-title: "Hello World from MentorTech"
+title: "HelloWorld"
 date: 2024-06-08
 ---
 
